@@ -38,7 +38,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
-
+![forkcheck](./img/fork.png)
 
 
 

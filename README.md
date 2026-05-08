@@ -24,6 +24,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -41,8 +42,7 @@ int main() {
         wait(NULL); 
     }
 }
-
-```C
+```
 
 ##OUTPUT
 ![2nd](./img/new.png)

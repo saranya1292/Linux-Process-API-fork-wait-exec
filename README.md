@@ -41,7 +41,7 @@ int main() {
         wait(NULL); 
     }
 }
-'''
+
 
 ##OUTPUT
 ![2nd](./img/new.png)

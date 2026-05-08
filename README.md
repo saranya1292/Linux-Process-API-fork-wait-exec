@@ -122,7 +122,7 @@ int main() {
 
 
 ##OUTPUT
-![forkfile](./img/z.png)
+![forkfile](./img/today.png)
 
 
 

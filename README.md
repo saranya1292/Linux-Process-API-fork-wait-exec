@@ -42,6 +42,7 @@ int main() {
     }
 }
 
+```C
 
 ##OUTPUT
 ![2nd](./img/new.png)
